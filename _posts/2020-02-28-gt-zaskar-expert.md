@@ -6,6 +6,8 @@ image: images/GT-Zaskar-Expert-2009.jpg
 ---
 # GT 2009 Zaskar Expert
 
+> youtube: https://youtu.be/4yB6FRReC2c
+
 I purchased a new bike on Dec 7, 2009, I went a little over budget so I walked into the city (8km), picked it up and was riding home and I got a bloody nail through the tyre, so another 4 km walking :-(
 
 So far, I like it. It is very responsive, easy to accelerate. My goal with the bike is to lose 20kg over the Australian summer and build a good physical base.

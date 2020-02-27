@@ -12,9 +12,8 @@ So far, I like it. It is very responsive, easy to accelerate. My goal with the b
 
 ![]({{ site.baseurl }}/images/GT-Zaskar-Expert-2009.jpg "GT 2009 Zaskar Expert")
 
-```
-![GT 2009 Zaskar Expert](/img/GT-Zaskar-Expert-2009.jpg)
-```
+youtube: https://youtu.be/4yB6FRReC2c
+
 
 **Marketing Drivel:**
 

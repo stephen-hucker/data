@@ -1,16 +1,9 @@
 ---
-title: "GT 2009 Zaskar Expert"
 toc: true
-description: My first and only 26' hardtail mountain bike.
+description: My first and only 26 inch hardtail mountain bike.
 categories: [bikes, markdown]
 ---
-
----
-toc: true
-description: A minimal example of using markdown with fastpages.
-categories: [fastpages, markdown]
----
-
+# GT 2009 Zaskar Expert
 
 I purchased a new bike on Dec 7, 2009, I went a little over budget so I walked into the city (8km), picked it up and was riding home and I got a bloody nail through the tyre, so another 4 km walking :-(
 

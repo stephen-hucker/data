@@ -2,6 +2,7 @@
 toc: true
 description: My first and only 26 inch hardtail mountain bike.
 categories: [bikes, markdown]
+image: images/GT-Zaskar-Expert-2009.jpg
 ---
 # GT 2009 Zaskar Expert
 

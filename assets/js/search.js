@@ -7,8 +7,8 @@ var documents = [{
     }, {
     "id": 1,
     "url": "https://stephen-hucker.github.io/about/",
-    "title": "About Me",
-    "body": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. This website is powered by fastpages 1.       a blogging platform that natively supports Jupyter notebooks in addition to other formats.  &#8617;    "
+    "title": "About Stephen",
+    "body": "My name is Stephen Hucker. This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. This website is powered by fastpages 1.       a blogging platform that natively supports Jupyter notebooks in addition to other formats.  &#8617;    "
     }, {
     "id": 2,
     "url": "https://stephen-hucker.github.io/categories/",

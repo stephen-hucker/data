@@ -1,16 +1,16 @@
 
 ---
-- title: "GT 2009 Zaskar Expert"
-- summary: "2009-12-07-gt-zaskar-expert"
-- toc: false
-- branch: master
-- badges: true
-- comments: true
-- image: images/GT-Zaskar-Expert-2009.jpg
-- categories: [bikes]
+title: "GT 2009 Zaskar Expert"
+description: My first and only 26' hardtail mountain bike
+summary: "2020-02-28-gt-zaskar-expert"
+toc: true
+badges: true
+comments: true
+image: images/GT-Zaskar-Expert-2009.jpg
+categories: [bikes, markdown]
 ---
 
-I purchased a new bike on Saturday, went a little over budget so I walked into the city (8km), picked it up and was riding home and I got a bloody nail through the tyre, so another 4 km walking :-(
+I purchased a new bike on Dec 7, 2009, I went a little over budget so I walked into the city (8km), picked it up and was riding home and I got a bloody nail through the tyre, so another 4 km walking :-(
 
 So far, I like it. It is very responsive, easy to accelerate. My goal with the bike is to lose 20kg over the Australian summer and build a good physical base.
 
